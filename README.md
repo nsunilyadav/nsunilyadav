@@ -1,11 +1,5 @@
 # Welcome to My GitHub Profile! 👋
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/37704809?v=4?v=4&h=300&w=300&fit=cover&mask=circle" />
-  <br />
-  <b>Passionate Software Engineer | Open Source Enthusiast | Tech Explorer</b>
-</p>
-
 ## About Me 🚀
 
 Hello there! I'm Sunil Yadav, a passionate Software Engineer with a keen interest in building innovative and user-friendly applications. My journey in the tech world started with curiosity, and it has led me to explore various programming languages, frameworks, and tools. I believe in the power of code to solve real-world problems and enhance lives.
